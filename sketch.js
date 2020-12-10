@@ -1,4 +1,4 @@
-var ball; database, position;
+var ball, database, position;
 
 function setup(){
     createCanvas(500,500);
